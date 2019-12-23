@@ -17,6 +17,6 @@ When choosing to connect to an existing game, you will need to arange the ships 
 
 When choosing view rating table, you will see a rating table.
 
-The player who created the game makes a first move. The player will need to enter the coordinates where he wants to shot. If player has missed, then second player makes nex shot.
+The player who created the game makes a first move. The player will need to enter the coordinates where he wants to shot. If player has missed, then second player makes next shot.
 
 The game ends if one of the players shot down oll the ships of second plsyer. After the end of the game, players will be moved to the main menu.
